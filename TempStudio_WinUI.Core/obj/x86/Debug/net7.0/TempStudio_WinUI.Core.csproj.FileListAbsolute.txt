@@ -1,0 +1,12 @@
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\bin\x86\Debug\net7.0\TempStudio_WinUI.Core.deps.json
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\bin\x86\Debug\net7.0\TempStudio_WinUI.Core.dll
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\bin\x86\Debug\net7.0\TempStudio_WinUI.Core.pdb
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.csproj.AssemblyReference.cache
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.AssemblyInfoInputs.cache
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.AssemblyInfo.cs
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.dll
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\refint\TempStudio_WinUI.Core.dll
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\TempStudio_WinUI.Core.pdb
+C:\Users\allis\source\repos\TempStudio_WinUI.Core\obj\x86\Debug\net7.0\ref\TempStudio_WinUI.Core.dll

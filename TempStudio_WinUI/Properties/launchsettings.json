@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TempStudio_WinUI (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "TempStudio_WinUI (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
